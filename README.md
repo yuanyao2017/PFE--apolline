@@ -72,8 +72,7 @@ for line in open("%s"%(f)):
 
 Et on lancer: 
 
-**python3 Interpolate.py data/neight/20170127neight.txt
-**
+**python3 Interpolate.py data/neight/20170127neight.txt×*
 
   * **AjaxHandler.py AjaxHandlerCallback.py Look.py index.html**
   
